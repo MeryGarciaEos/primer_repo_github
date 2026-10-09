@@ -1,7 +1,4 @@
-este es el repo de github
-
-segundo commit
-
-Hola a todos :sad: 
-:smile:
+Este es el repo de github
+Hola a todos :smile:
+git add . añadir un archivo de warking ares a stagging area
 
