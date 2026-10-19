@@ -6,4 +6,6 @@ creado en la rama develop
 
 volvemos a crear la rama develop
 
-Modificado desde develop
+
+Modificado desde ambas ramas
+
